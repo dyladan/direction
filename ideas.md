@@ -1,6 +1,6 @@
-*Multiple Projects
-*Bugs
-*Milestones
-    *Large
-    *Small
-    *Nested?
+*    Multiple Projects
+*    Bugs
+*    Milestones
+    *    Large
+    *    Small
+    *    Nested?
